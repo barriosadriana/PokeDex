@@ -102,7 +102,7 @@ Se hizo clic en **Empezar gratis** para continuar.
 
 Al pulsar **Empezar gratis** Microsoft solicita:
 
-1. **Correo institucional** — se ingresó `jhojamcaraballot@tecnocomfenalco.edu.co`.
+1. **Correo institucional** — se ingresó `adrianabarrioss@tecnocomfenalco.edu.co`.
 2. **Contraseña** asociada a la cuenta Microsoft del correo institucional (si la institución usa Microsoft 365, la contraseña es la misma del correo; de lo contrario, se crea una nueva).
 3. **Verificación de identidad** mediante código enviado por SMS al número de teléfono registrado.
 4. **Aceptación del contrato de suscripción** de Azure for Students y la política de privacidad.
@@ -116,7 +116,7 @@ Microsoft verifica automáticamente que el dominio `@tecnocomfenalco.edu.co` est
 
 Una vez completado el registro, se accedió a `https://portal.azure.com` e inició sesión con la cuenta recién creada. El portal cargó mostrando la cuenta activa en la esquina superior derecha:
 
-- **Usuario autenticado:** `jhojamcaraballot@tecnocomfenalco.edu.co`
+- **Usuario autenticado:** `adrianabarrioss@tecnocomfenalco.edu.co`
 - **Idioma:** Español
 - **Tenant:** Tecnológico Comfenalco (institución educativa vinculada al dominio)
 
