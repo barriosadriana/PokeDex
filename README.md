@@ -60,7 +60,7 @@ Se eligió **Microsoft Azure** como proveedor de nube para este proyecto por las
 
 Antes de iniciar el registro se verificó contar con:
 
-- **Correo institucional** activo (en este caso `jhojamcaraballot@tecnocomfenalco.edu.co`, del dominio educativo `@tecnocomfenalco.edu.co`).
+- **Correo institucional** activo (en este caso `adrianabarrioss@tecnocomfenalco.edu.co`, del dominio educativo `@tecnocomfenalco.edu.co`).
 - **Acceso a internet** y un navegador actualizado (Google Chrome).
 - **Número de teléfono móvil** para la verificación por SMS.
 - Datos personales básicos (nombre, fecha de nacimiento, país/región).
