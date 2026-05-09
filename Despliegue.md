@@ -308,7 +308,7 @@ export const environment = {
 
 Una vez completado el workflow se accedió a la URL generada por Azure:
 
-- `https://gentle-meadow-0d58dab0f.7.azurestaticapps.net`
+- `https://ambitious-ocean-0c42eb40f.7.azurestaticapps.net`
 
 La aplicación **PokeDex** cargó correctamente mostrando los 151 Pokémon de primera generación con la barra superior (**HOME**, **ABOUT**), el selector de versión (Green → Emerald), el filtro por nombre y el ordenamiento por número.
 
